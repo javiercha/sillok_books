@@ -1,6 +1,6 @@
 # Sillok Books
 
-A list of all book title references made in the Annals of the Chosŏn dynasty. Coverage: 1392 to 1863. 37,423 entries.
+A list of all book references made in the Annals of the Chosŏn dynasty. Coverage: 1392 to 1863. 37,423 entries.
 
 Data source: https://www.data.go.kr/data/15053647/fileData.do
 
